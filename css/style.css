@@ -920,6 +920,22 @@ section.news .social-box .left {
     background: #2873b6;
     color:#FFF;
 }
+section.contact {
+    background: url('https://images.pexels.com/photos/320007/pexels-photo-320007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-position-y: center;
+    background-size: cover;
+    height: 500px;
+}
+
+section.contact .contnt {
+    background: #ffffffe6;
+    background-size: cover;
+    height: 382px;
+}
+
+section.contact .section-header {
+    background: #fff;
+}
 
 .main-carousel3 .carousel-cell {
   background:#0000006e;
