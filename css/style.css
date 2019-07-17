@@ -1085,6 +1085,10 @@ section.contact .form-container h3 {
     top: -46px;
 }
 
+section.contact input {
+    width: 100%;
+}
+
 footer h1 {
     color: #fff;
     font-weight: 200;
