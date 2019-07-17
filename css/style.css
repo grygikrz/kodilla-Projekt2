@@ -1125,6 +1125,11 @@ footer h1 {
     margin: 20px 36px;
 }
 
+footer h1 a {
+    	color: #fff;
+	font-weight: 200;
+}
+
 @media  all and (max-width: 640px) {
 	section.contact .form-container {
 		position: static;
