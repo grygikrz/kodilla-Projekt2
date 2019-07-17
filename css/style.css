@@ -1030,7 +1030,9 @@ section.contact .form-container .row {
 	margin-bottom: 0;
 }
 
-
+section.contact .contnt {
+    position: relative;
+}
 /* label color */
   section.contact .input-field label {
      color: #9c9c9c;
@@ -1110,6 +1112,19 @@ section.contact .form-container h3 {
     position: absolute;
     top: -46px;
 }
+
+footer h1 {
+    color: #fff;
+    font-weight: 200;
+    text-align: left;
+    border: 1px #fff solid;
+    display: inline-block;
+    font-size: 19px;
+    padding: 19px 27px;
+    line-height: 16px;
+    margin: 20px 36px;
+}
+
 @media  all and (max-width: 640px) {
 	section.contact .form-container {
 		position: static;
