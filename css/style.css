@@ -1085,8 +1085,10 @@ section.contact .form-container h3 {
     top: -46px;
 }
 
-section.contact input {
-    width: 100%;
+section.contact input, section.contact textarea {
+    	width: 100%;
+	border:0px;
+	background-color: #fafafa;
 }
 
 footer h1 {
